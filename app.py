@@ -1,10 +1,4 @@
-
-
 import os
-
-
-
-
 
 response = client.responses.create(
     model="gpt-5-mini",
